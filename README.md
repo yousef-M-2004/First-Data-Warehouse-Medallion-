@@ -19,9 +19,9 @@ Project Management: Notion
 Version Control: Git / GitHub
 📂 Repository Structure
 text
-├── /scripts      # DDLs for all layers and ETL stored procedures
-├── /tests        # Data quality and integrity validation scripts
-└── /docs         # Architecture diagrams, data catalog, and models
+1)scripts      # DDLs for all layers and ETL stored procedures
+2)tests        # Data quality and integrity validation scripts
+3)docs         # Architecture diagrams, data catalog, and models
 
 🔑 Key Deliverables
 Automated ETL: Robust stored procedures for scalable data ingestion.
